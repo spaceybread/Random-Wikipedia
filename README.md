@@ -1,5 +1,5 @@
 # Random-Wikipedia
-A chrome extension that directs to a random wikipedia article
+A Chrome extension that directs to a random wikipedia article
 
 Instructions to add this to your Chrome brower: 
 - head to chrome://extensions/
@@ -8,3 +8,9 @@ Instructions to add this to your Chrome brower:
 - press 'Update'
 
 The extension should appear in the extensions drop-down list or as a pinned extension next to the URL bar
+
+To use the extension:
+- Click on the extension icon (should be the Wikipedia logo)
+- Click on 'Surpise Me!'
+
+It should open a new tab with a random Wikipedia article
