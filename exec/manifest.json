@@ -1,0 +1,10 @@
+{
+"manifest_version": 2,
+"name": "RandomWiki",
+"description": "Sends user to a random Wikipedia article",
+"version": "1.0",
+"browser_action": {
+"default_icon": "iconNew.png",
+"default_popup": "main.html"
+}
+}
